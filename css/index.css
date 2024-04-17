@@ -1,6 +1,11 @@
-.navegacion{background-color: red;text-align: center;display: flex; flex-wrap: wrap; flex-direction: row; justify-content: space-between;}
-.logo{align-items: center;height: 80px; width: 140px;}
+
 footer{background-color: red;}
 img{width: 150px; height: 220px;}
-.DatosAccesorios{display: flex;flex-wrap:nowrap}
-.elemento{justify-content: space-between;flex-direction: row;}
+section{display: flex;flex-wrap:nowrap;align-items: center;}
+.elemento{justify-content: space-between;flex-direction: row;margin: 20px; }
+.navegacion{background-color: red;display: flex;flex-wrap: wrap;flex-direction: row;justify-content: space-around;align-items: center;font-size: 20px;color: white;}
+a{color: white;font;text-decoration: none;}
+.imgDiesel{ }
+.logo{height: 100px; width: 200px}
+.imgDiesel{height: 110px;align-items: center;}
+body{font-family:Arial, Helvetica, sans-serif}
