@@ -7,5 +7,5 @@ section{display: flex;flex-wrap:nowrap;align-items: center;}
 a{color: white;font;text-decoration: none;}
 .imgDiesel{ }
 .logo{height: 100px; width: 200px}
-.imgDiesel{height: 110px;align-items: center;}
+.imgDiesel{height: 110px;align-items: center;background-color: red;}
 body{font-family:Arial, Helvetica, sans-serif}
